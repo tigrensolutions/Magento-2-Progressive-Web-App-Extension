@@ -1,7 +1,7 @@
 # Magento 2 Progressive Web App Extension
 
 <h2 style="text-align: center;"><span style="font-size: 25px; color: #ff0000;"><strong>What is Magento Progressive Web App?</strong></span></h2>
-The <strong>Magento Progressive Web Apps</strong> (PWA) combine the pluses of the mobile web and native apps to create state-of-the-art technology. When the customers visit the site for the first time, they will be invited to use the Progressive Web App by adding it to their home screen – just one click, no complicated installation required. Then, it will open a door of great experience with the <em>accelerated loading speed</em>, even on the flaky network, <em>useful push notifications, instant access on the home screen</em>, and so on. Needless to say, the PWA is a perfect solution for Magento store owners to drive shopper engagement and revenue.
+The <strong><a href="https://www.tigren.com/services/magento-pwa-development" rel="nofollow">Magento 2 Progressive Web Apps</a></strong> (PWA) combine the pluses of the mobile web and native apps to create state-of-the-art technology. When the customers visit the site for the first time, they will be invited to use the Progressive Web App by adding it to their home screen – just one click, no complicated installation required. Then, it will open a door of great experience with the <em>accelerated loading speed</em>, even on the flaky network, <em>useful push notifications, instant access on the home screen</em>, and so on. Needless to say, the PWA is a perfect solution for Magento store owners to drive shopper engagement and revenue.
 
 ![magento-2-progressive-web-app-extension-free-1-1024x658](https://user-images.githubusercontent.com/26241389/162154331-2e63ad61-cabd-4441-9b7c-f60037fb8326.png)
 
